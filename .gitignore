@@ -1,3 +1,6 @@
 # Private visitor records: never commit
 visitors/
 *.vault
+
+# macOS
+.DS_Store

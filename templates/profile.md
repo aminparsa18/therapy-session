@@ -7,6 +7,7 @@
 ## Consent
 - Notes may be saved after each session (draft shown first): yes / no
 - Exercises may be saved here: yes / no
+- Background details (work, home, people by role, routines) may be saved so I don't have to repeat them: yes / no
 - Anything they asked me never to write down:
 
 ## What they came for (their words)

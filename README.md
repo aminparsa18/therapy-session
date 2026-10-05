@@ -46,14 +46,14 @@ CLAUDE.md                           workspace rules (loads the skill, privacy de
     safety.md                       crisis protocol, red flags, scope, referral
     session-formats.md              opening, closing, reflection and homework formats
     visitor-records.md              how private records work
-templates/                          blank profile, themes, session note, 7 exercises
+templates/                          blank profile, context, themes, session note, 7 exercises
 scripts/vault.sh                    passphrase vault for visitor records
 visitors/                           private records (gitignored, created on first use)
 ```
 
 ## Visitor records (opt-in)
 
-With a visitor's consent, the skill can keep a profile, a running themes map, session notes, and exercises, so the next session continues where the last one ended. Visitors who decline get a full session with no files.
+With a visitor's consent, the skill can keep a profile, a life-context file (plain facts so nothing is asked twice), a running themes map, session notes, and exercises, so the next session continues where the last one ended. Visitors who decline get a full session with no files.
 
 - Visitors are identified by alias only.
 - The AI drafts each note in chat first and saves it only after approval.

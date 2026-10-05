@@ -52,6 +52,7 @@ case "$cmd" in
     mkdir -p "$V/$name/sessions" "$V/$name/exercises"
     cp "$T/profile.md" "$V/$name/profile.md"
     cp "$T/themes.md"  "$V/$name/themes.md"
+    cp "$T/context.md" "$V/$name/context.md"
     echo "Created visitors/$name/. Run 'scripts/vault.sh lock $name' when done to protect it with a passphrase."
     ;;
 

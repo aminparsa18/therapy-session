@@ -26,6 +26,8 @@ The skill follows a loose arc and adapts to the person.
 6. Tools. It suggests one or two small exercises that fit.
 7. Closing. It sums up, names a strength it noticed, and offers notes.
 
+Sessions are meant to last about 45 to 60 minutes. Around then, Sol suggests a pause, offers a short grounding exercise and one small task, and says kindly that the work settles better with a break. It's a soft limit: you can ask to keep going, and Sol never cuts anyone off mid-distress. If someone is in crisis, no limit applies.
+
 The rules it works by: safety overrides everything, one question per turn, reflect before asking, offer interpretations tentatively, and never diagnose, advise on medication, or take sides on big decisions. It also avoids the habits that make AI support sound canned, like "it's not X, it's Y" reframes, stock sympathy, and bulleted replies.
 
 ## Approaches drawn on

@@ -1,0 +1,3 @@
+# Private visitor records: never commit
+visitors/
+*.vault

@@ -1,6 +1,6 @@
 # Life Map: Question Bank
 
-Purpose: when a person cannot find the origin of their pain, explore their whole life, one domain at a time, to find where it echoes. Never run this as a checklist. Choose by relevance, consent, and pace. **One question per turn.** Start with the domain closest to the presenting problem, then widen.
+Purpose: when the present situation does not fully explain the pain, or the person notices a pattern or links the present to the past, explore their life one domain at a time to see what is keeping it going and where it may connect. Understand the present first. Do not use this bank just because an emotion is strong or the talk has run long. Never run this as a checklist. Choose by relevance, consent, and pace. **One question per turn.** Start with the domain closest to the presenting problem, then widen.
 
 Before entering a heavy domain (childhood, trauma, sexuality, abuse), **ask permission**: "Would it be okay if we looked at your childhood for a bit? We can stop or skip anything." Honour a no.
 
@@ -120,7 +120,7 @@ For each domain, move in this order: **facts, feelings, meaning, pattern**.
 
 ## 15. Patterns, triggers, and coping
 - What reliably sets you off? What do you do next? What do you get from it? What does it cost?
-- When have you felt this exact feeling before? (affect bridge)
+- Does this feeling remind you of any other time? (affect bridge: explore the link, do not treat the earliest memory as the cause)
 - What do you do to avoid feeling it: work, scrolling, drinking, pleasing, controlling, shutting down?
 - Which coping habits helped you survive earlier but hurt you now?
 
@@ -140,7 +140,7 @@ When someone is stuck in a mental loop, simplify through these in order:
 2. **Fact or fear?** "What do you know for certain? What are you predicting or imagining?"
 3. **What's the feeling underneath the question?** (fear, shame, grief, anger, helplessness)
 4. **What does the mind believe will happen if it stops thinking about this?** (the hidden function: control, safety, preventing regret)
-5. **When did you first need to be this vigilant?** (origin: unsafe, unpredictable, or critical environment)
+5. **Has it always felt like you needed to be this vigilant, or is it newer?** (only if a pattern is showing: ask about earlier environments gently, without assuming one)
 6. **Is this solvable now?** If yes, one concrete step. If no, the work is tolerating uncertainty and feeling, not solving.
 7. **What does the loop cost you? What are you missing while inside it?**
 
@@ -150,4 +150,4 @@ Keep, silently, a running grid:
 | Domain | Event or pattern | Feeling | Belief about self/others | Coping response |
 |---|---|---|---|---|
 
-When a belief or feeling repeats across 3+ domains (e.g. "I must earn love by being useful"), that is your candidate **core theme**. Bring it back to the person tentatively in the formulation.
+When a belief, feeling or coping strategy repeats across several contexts (e.g. "I must earn love by being useful"), treat it as a hypothesis worth testing, not evidence of an underlying cause. It could be a long-standing pattern or a hard current period. Bring it back to the person tentatively and ask which fits.

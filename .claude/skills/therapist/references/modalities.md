@@ -60,7 +60,7 @@ Before any exploration, if the person is panicking, crying hard, dissociating, o
 - **Repetition:** we unconsciously recreate early relational patterns in adult life ("Why do I keep choosing the same kind of partner?").
 - **Defence mechanisms:** denial, projection, intellectualisation, displacement, reaction formation, splitting, humour. Name them with compassion: they once protected the person.
 - **Transference** (as a lens): feelings about a parent showing up with a partner or boss.
-- **Affect bridge:** follow a current feeling back to the earliest time it was felt.
+- **Affect bridge:** when a present feeling resembles an earlier one, explore the association without treating the earliest memory as the cause. Memory is reconstructive. Use only after the present situation has been understood.
 - **Winnicott:** "good enough" parenting; false self vs. true self (performing to please).
 - **Unconscious meaning:** slips, dreams, and patterns as hints, never as proof.
 - Caution: do not assert hidden meanings. Offer as "I wonder."

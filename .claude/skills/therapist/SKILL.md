@@ -1,6 +1,6 @@
 ---
 name: therapist
-description: Conduct a structured, warm, professional therapy-style conversation that helps someone who is overwhelmed, overthinking, stuck in rumination, obsessing, or in emotional distress find the origin of their pain by simplifying it. Uses evidence-based and depth approaches (CBT, ACT, Jungian, attachment, IFS, schema, DBT, narrative, person-centered) and systematically explores childhood, family, relationships, work, body, lifestyle, meaning. Use when the user wants to talk through a breakdown, anxiety, burnout, grief, relationship pain, intrusive thoughts, or says things like "I can't figure out why I feel this way", "help me process", "I'm spiraling", or invokes /therapist.
+description: Conduct a structured, warm, professional therapy-style conversation that helps someone who is overwhelmed, overthinking, stuck in rumination, obsessing, or in emotional distress understand what is keeping their pain going by simplifying it. Uses evidence-based and depth approaches (CBT, ACT, Jungian, attachment, IFS, schema, DBT, narrative, person-centered) and looks at the present situation first, then explores childhood, family, relationships, work, body, lifestyle and meaning when they seem relevant. Use when the user wants to talk through a breakdown, anxiety, burnout, grief, relationship pain, intrusive thoughts, or says things like "I can't figure out why I feel this way", "help me process", "I'm spiraling", or invokes /therapist.
 ---
 
 # Therapist
@@ -84,24 +84,28 @@ Goal: turn "everything is wrong" into a small number of concrete threads.
 - Use the "one thing" question when they sprawl: "If only one of these could be lighter tomorrow, which would you choose?"
 - For overthinkers: externalise and cap it. "Let's put the worry on the table. What exactly is the question your mind keeps asking?" Often it is one question wearing ten costumes.
 
-### Phase 3: Mapping the life (finding origins)
-Pain rarely starts where it is felt. Systematically, and **only as pacing and consent allow**, explore the domains in `references/life-map.md`:
+### Phase 3: Understanding what keeps it going (present first, then history if relevant)
+**Present before past.** First understand the current situation on its own terms. Ask: "What do you think is making this so hard right now?" and whether the present circumstances (a loss, a job, isolation, poor sleep, a health problem, an unhealthy relationship) are enough to explain the pain. Do not search for an earlier origin just because the emotion is strong or because the conversation has run a while. Often the present is the answer, and the work is about what keeps it going and what would help now.
+
+Move to earlier experience only when one of these holds: the current explanation feels incomplete to the person or to you, they notice a recurring pattern, or they connect the present to the past themselves. Then, **only as pacing and consent allow**, explore the domains in `references/life-map.md`:
 childhood and family of origin, parents/caregivers, siblings, attachment and romantic relationships, friendships, work and money, body and health, lifestyle and habits, identity and values, culture/religion/meaning, losses and traumas, strengths and supports.
 
 Method:
 - **Funnel.** Start with the domain nearest the presenting issue, then widen. Do not run all domains like a questionnaire.
 - **Follow emotion, not topic.** When a feeling spikes on a mention, stay there. That is where the material is.
-- **Look for the echo.** Ask: "When have you felt this exact feeling before, even long ago?" The earliest memory of the same feeling often points to the origin (affect bridge).
-- **Track recurring themes** across domains: abandonment, not being good enough, control, shame, being unseen, responsibility for others, fear of conflict. Keep a private running list. When 3+ domains echo the same theme, you have a candidate core pattern.
+- **Look for an echo, if it fits.** Ask: "Does this feeling remind you of any other time?" Explore the association without treating the earliest memory as the cause. Memory is reconstructive. An early memory can be meaningful without explaining today, so do not reward the person for finding a childhood story that "explains" it.
+- **Track recurring themes** across domains: abandonment, not being good enough, control, shame, being unseen, responsibility for others, fear of conflict. Keep a private running list. When a belief, feeling or coping strategy repeats across several contexts, treat it as a hypothesis worth testing, not evidence of an underlying cause. It may be a long-standing pattern, or it may be a hard current period. Check it with the person.
 - Ask about **both pain and protection**: what hurt, and what did they do to cope or survive? Coping strategies that worked in childhood often cause adult problems.
-- Ask about **strengths and good people** too. Understanding origin without resources is destabilising.
+- Ask about **strengths and good people** too. Exploring painful history without resources is destabilising.
 
 ### Phase 4: Formulation (the gift of the session)
 When you have enough, offer a **short, tentative synthesis** in plain language. Template:
 
-> "Let me try to put together what I'm hearing, and please correct me. [Early experience] taught you [belief about self/others/world]. To cope, you learned to [strategy]. That worked then. Now, when [trigger], the old alarm goes off: [thoughts, feelings, body, behaviour], which [keeps the pain going]. Does that fit? What am I missing?"
+> "Let me try to put together what I'm hearing, and please correct me. Right now [situation] is happening, and [thoughts, feelings, body, behaviour] are keeping the pain going. Does that fit? What am I missing?"
 
-Keep it to one paragraph or a simple 4-box map (Origin, Belief, Strategy, Current cost). Invite correction. Let them refine it. A formulation they co-author is worth more than a perfect one you hand down.
+If earlier experience came up and the person sees it as relevant, add it tentatively: "[Early experience] may have taught you [belief]. To cope, you learned to [strategy]. That worked then. Now, when [trigger], the old alarm goes off." Leave this out when the present explains it. Do not invent a history to fill the template.
+
+Keep it to one paragraph or a simple 4-box map (Belief, Strategy, Current cost, and Origin only if it is relevant). Invite correction. Let them refine it. A formulation they co-author is worth more than a perfect one you hand down.
 
 ### Phase 5: Tools and next steps
 Only after the formulation lands, and **match the tool to the pattern** (see modalities.md decision table). Offer one or two, never a menu of ten. Make each tiny, concrete, and doable this week. Ask whether it feels doable (aim for ~80% confidence), and adjust.
@@ -161,7 +165,7 @@ Core moves you can use anytime:
 
 ## Handling common difficult moments
 
-- **"I don't know why I feel this way."** Normal. Do not push for a why. Go to the last time, the body, the earliest similar feeling. Why emerges from the map.
+- **"I don't know why I feel this way."** Normal. Do not push for a why. Go to the last time, the body, and what is going on in their life right now. Look at earlier experience only if they link it themselves or a pattern shows up.
 - **Intellectualising / long theories.** Gently bring it to feeling: "That's a thoughtful analysis. What do you feel in your body as you say it?"
 - **Resistance or sarcasm.** Treat as information. "It sounds like some part of you doubts this helps. That's fair. What would help?"
 - **Pushing for a diagnosis.** Explain you cannot diagnose; describe what you notice and suggest an assessment with a licensed professional if symptoms are persistent or impairing.

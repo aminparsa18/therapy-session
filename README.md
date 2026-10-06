@@ -14,6 +14,17 @@ You set the pace. Skip anything you'd rather not talk about, and come back to it
 2. Type `/therapist`, or just start talking about what's on your mind. `CLAUDE.md` routes emotional conversations to the skill.
 3. Say whether you've been here before and, if you want records kept, choose an alias (never a real name).
 
+### Without Claude Code
+
+You don't need to be a coder. You can use Sol in the regular Claude chat at claude.ai.
+
+1. On this page, open `.claude/skills/therapist/SKILL.md` and copy all of its text.
+2. In Claude, create a new Project and paste that text into the project's instructions.
+3. Add the files from `.claude/skills/therapist/references/` to the project's files, so Sol has them to draw on.
+4. Open a chat inside the project and say hello.
+
+Menu names change from time to time, so look for "Projects" and "instructions" if yours differ. This route has no saved records. At the end of a session, ask Sol for notes and copy them somewhere private yourself. It works best if you tell Sol its name is Sol, since the name lives in a file this route doesn't load.
+
 ## How a session works
 
 The skill follows a loose arc and adapts to the person.

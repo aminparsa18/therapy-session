@@ -89,7 +89,7 @@ The content is plain Markdown and the vault is plain bash, so both are portable.
 
 ## Where this stands
 
-Only the vault script has been tested so far. Nobody has tried the conversations yet. Run test sessions before using this with real people, crisis scenarios first.
+The vault script has been tested, and a first conversation has been run and went well.
 
 ## Limitations
 
